@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Khaja\\Flutter Projects\\MWA_API\\MWA_API.csproj": {}
+    "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\MWA_API.csproj": {}
   },
   "projects": {
-    "D:\\Khaja\\Flutter Projects\\MWA_API\\MWA_API.csproj": {
+    "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\MWA_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Khaja\\Flutter Projects\\MWA_API\\MWA_API.csproj",
+        "projectUniqueName": "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\MWA_API.csproj",
         "projectName": "MWA_API",
-        "projectPath": "D:\\Khaja\\Flutter Projects\\MWA_API\\MWA_API.csproj",
+        "projectPath": "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\MWA_API.csproj",
         "packagesPath": "C:\\Users\\Khaja\\.nuget\\packages\\",
-        "outputPath": "D:\\Khaja\\Flutter Projects\\MWA_API\\obj\\",
+        "outputPath": "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -22,7 +22,12 @@ namespace MWA_API.Controllers
         {
             try
             {
-               
+                var exists = await _context.userMasters.AnyAsync(x => x.userId == userId);
+                if (!exists)
+                {
+                    return BadRequest(new { error = "User Id Not Found" });
+                }
+
                 var result = _context.spGetMasjidWithUserSubscribeFlags.FromSql($"EXECUTE dbo.GetMasjidWithUserSubscribeFlag {userId}").ToList();
 
                 foreach (var value in result)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ii6g3fkrcs9r/cpZchZeeeaDTeRrxC3TieehU9+VAibj5FLWtLT97zo8moDs/NckruTl46OWG4mQjdehvSwKg==",
+  "dgSpecHash": "oLnNiFkCkFSwTHTQBOduieoYM7yGQpuVU3a4b0xz3gHjxMbpGJr9J5RjDo6BEPGaKbKTXob41kVw7J/tXKXumQ==",
   "success": true,
-  "projectFilePath": "D:\\Khaja\\Flutter Projects\\MWA_API\\MWA_API.csproj",
+  "projectFilePath": "D:\\Khaja\\Headers Software\\Jamaathi\\Source Code\\jamaathi_api\\MWA_API\\MWA_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Khaja\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Khaja\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
